@@ -17,7 +17,7 @@ An application where developers meet, share and rate projects based on different
 ## Contributors
 * Tyron Njuguna
 ## Setup/Installation Requirements
-* Clone or download the project from my repo https://github.com/Joshua-Barawa/Django-IP3
+* Clone or download the project from my repo https://github.com/priest200/djangoip3.git
 * Open with pycharm or your prefered IDE
 * Or you can You can view it using this link https://awwards-today.herokuapp.com/
 
